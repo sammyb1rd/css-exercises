@@ -1,3 +1,6 @@
+Welcome to Sam's Forked copy of The Odin Project "CSS Exercises!" I'm working on completing the exercises as they are assigned. It's so fun! If you are reading this, welcome! Let me know if you have questions.
+
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project.
