@@ -1,0 +1,15 @@
+/* style.css for exercise 03-grouping-selectors */
+
+.first, .second{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    }
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
